@@ -10,6 +10,7 @@ body {
     margin: 0;
     background-color: black;
     color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 header {
@@ -20,6 +21,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .main-title {
@@ -53,7 +55,7 @@ header {
 section {
     background-color: rgb(91, 52, 22);
     box-shadow: 0 0 0 15px rgb(90, 40, 18);
-    margin: 10px;
+    margin: 100px;
     display: flex;
     flex-direction: column;
     margin-top: 50px;
